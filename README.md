@@ -8,3 +8,6 @@ Also, you can select different fonts from google fonts and try different scales 
 
 [Fontjoy](https://fontjoy.com/)
 This tool simply generates font pairs that you can use in your designs. You can choose the contrast you want and hit generate to get font pairs that go together well.
+
+[Box Shadow Generator](https://shadows.brumm.af/)
+With this tool, you can create amazing box shadows. You can add multiple layers to your shadows and adjust every part of it to create awesome-looking smooth shadows.!
