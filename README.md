@@ -11,3 +11,6 @@ This tool simply generates font pairs that you can use in your designs. You can 
 
 [Box Shadow Generator](https://shadows.brumm.af/)
 With this tool, you can create amazing box shadows. You can add multiple layers to your shadows and adjust every part of it to create awesome-looking smooth shadows.!
+
+[Flutter Boilerplate](https://github.com/mhmzdev/Flutter-Boilplate-2.5)
+Created a basic Flutter Project structure that I usually follow for most of my projects.
