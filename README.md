@@ -26,3 +26,6 @@ This little tool can help you create a prototype of your next awesome web applic
 
 [BeKeeperStudio](https://www.beekeeperstudio.io/)
 A desktop application to connect and manage the database. It supports several types of database including MySQL, Postgres, SQLite, and SQL Server. With this application, you can perform several database operations conveniently such as creating or deleting database, run an SQL query, and more.
+
+[Motion Dev](https://motion.dev/)
+A JavaScript animation library with a focus on performance and simplicity. It leverages Animation API that allows it to stay small (3.1kb) while providing native animation features such as transform, transitions, and keyframes out of the box.
