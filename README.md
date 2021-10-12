@@ -21,3 +21,5 @@ Theatre.js is a JavaScript library to write animation. It comes with a rich UI c
 [Metatags Generator](https://metatags.io/)
 A web application to generate preview of your site on Google and several social media sites like Facebook, Twitter, Pinterest, and Slack. You can use this tool to manage your site title, description, and image to ensure that they fit in and are optimised before sharing it on those sites.
 
+[Shaper](https://hihayk.github.io/shaper/)
+This little tool can help you create a prototype of your next awesome web application fast. Rather than creating it from scratch, you can save time by using this tool to generate UI base styles with some defined parameters like Font Family, Text Size, Color Accent, and their proportion.
