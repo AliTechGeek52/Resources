@@ -23,3 +23,6 @@ A web application to generate preview of your site on Google and several social 
 
 [Shaper](https://hihayk.github.io/shaper/)
 This little tool can help you create a prototype of your next awesome web application fast. Rather than creating it from scratch, you can save time by using this tool to generate UI base styles with some defined parameters like Font Family, Text Size, Color Accent, and their proportion.
+
+[BeKeeperStudio](https://www.beekeeperstudio.io/)
+A desktop application to connect and manage the database. It supports several types of database including MySQL, Postgres, SQLite, and SQL Server. With this application, you can perform several database operations conveniently such as creating or deleting database, run an SQL query, and more.
