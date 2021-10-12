@@ -14,3 +14,6 @@ With this tool, you can create amazing box shadows. You can add multiple layers 
 
 [Flutter Boilerplate](https://github.com/mhmzdev/Flutter-Boilplate-2.5)
 Created a basic Flutter Project structure that I usually follow for most of my projects.
+
+[Theatre Js](https://www.theatrejs.com/)
+Theatre.js is a JavaScript library to write animation. It comes with a rich UI called “Studio” which makes it more intuitive to use compared to similar libraries.
