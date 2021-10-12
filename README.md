@@ -17,3 +17,7 @@ Created a basic Flutter Project structure that I usually follow for most of my p
 
 [Theatre Js](https://www.theatrejs.com/)
 Theatre.js is a JavaScript library to write animation. It comes with a rich UI called “Studio” which makes it more intuitive to use compared to similar libraries.
+
+[Metatags Generator](https://metatags.io/)
+A web application to generate preview of your site on Google and several social media sites like Facebook, Twitter, Pinterest, and Slack. You can use this tool to manage your site title, description, and image to ensure that they fit in and are optimised before sharing it on those sites.
+
